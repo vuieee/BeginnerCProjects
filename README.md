@@ -12,4 +12,4 @@ This program asks the user to input:
 2. Rate per hour
 
 It then calculates the **salary** using the formula:
-
+Salary = Hours Worked × Rate Per Hour
