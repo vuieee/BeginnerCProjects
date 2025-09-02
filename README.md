@@ -13,3 +13,5 @@ This program asks the user to input:
 
 It then calculates the **salary** using the formula:
 Salary = Hours Worked × Rate Per Hour
+
+More details: [Assignment Context](docs/assignment-context.md)
