@@ -4,8 +4,6 @@ A simple collection of programs written in C for **Programming 1**.
 
 ---
 
-## Description
+## More Details
 
-This is just a simple repository to keep all of my simple projects organized.
-
-More details: [Project Context](docs/project-context.md)
+[Project Context](docs/project-context.md)
