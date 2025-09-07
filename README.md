@@ -1,17 +1,11 @@
-# Salary Calculator (C Program)
+# Year 1 C Projects (C Program)
 
-A simple program written in C for **Programming 1**.  
-It calculates the salary based on the total hours worked and the rate per hour.
+A simple collection of programs written in C for **Programming 1**.  
 
 ---
 
 ## Description
 
-This program asks the user to input:
-1. Total hours worked
-2. Rate per hour
-
-It then calculates the **salary** using the formula:
-Salary = Hours Worked × Rate Per Hour
+This is just a simple repository to keep all of my simple projects organized.
 
 More details: [Assignment Context](docs/assignment-context.md)
