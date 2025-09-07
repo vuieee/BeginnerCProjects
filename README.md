@@ -1,4 +1,4 @@
-# Year 1 C Projects (C Program)
+# Year 1 Projects
 
 A simple collection of programs written in C for **Programming 1**.  
 
